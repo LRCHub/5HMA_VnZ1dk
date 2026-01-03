@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜の国",
+  "base_artist": "Annabel",
+  "createdAt": "2026-01-03T16:56:51.462836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜の国",
+      "artist": "Annabel",
+      "has_synced": true,
+      "path": "select/01_夜の国_Annabel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜の国 - TSUTCHIE Remix",
+      "artist": "Annabel",
+      "has_synced": false,
+      "path": "select/02_夜の国_-_TSUTCHIE_Remix_Annabel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の国",
+      "artist": "Annabel",
+      "has_synced": false,
+      "path": "select/pl_01_夜の国_Annabel.txt"
+    }
+  ]
+}
